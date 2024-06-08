@@ -1,0 +1,8 @@
+ libreria dht11 -> https://github.com/dhrubasaha08/DHT11 
+
+
+ 🦖​🦖​🦖​🦖​🦖
+
+
+ -- git commit -m "first commit"
+git commit -m "first commit"
