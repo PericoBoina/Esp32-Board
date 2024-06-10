@@ -7852,7 +7852,7 @@
 			(pintype "passive")
 			(uuid "77d75bf4-5b70-47ba-a967-f4c007193381")
 		)
-		(model "C:/Personal/Proyectos/Modelos 3D componentes/ESP32-WROOM-32.STEP"
+		(model "C:/Personal/Proyectos/Modelos 3D componentes/ESP32-WROOM-32D.step"
 			(offset
 				(xyz 0 3 0)
 			)
@@ -7860,7 +7860,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -16187,10 +16187,11 @@
 		(fill yes
 			(thermal_gap 0.5)
 			(thermal_bridge_width 0.5)
+			(smoothing fillet)
 		)
 		(polygon
 			(pts
-				(xy 59.45 74.05) (xy 64.15 135.25) (xy 137.8 134.05) (xy 139.9 63.3) (xy 91.7 56.45)
+				(xy 65.95 80.35) (xy 64.15 135.25) (xy 138.2 133.95) (xy 135.6 67) (xy 88.4 60)
 			)
 		)
 		(filled_polygon
