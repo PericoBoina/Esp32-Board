@@ -1,3 +1,8 @@
 {
-    "idf.portWin": "COM11"
+    "idf.portWin": "COM11",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "limits": "cpp"
+    }
 }
